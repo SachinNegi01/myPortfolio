@@ -1,0 +1,12 @@
+@media (max-width: 700px) {
+  .section {
+    padding: 1rem;
+  }
+  .skills-list, .project-list {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .header-content h1 {
+    font-size: 2rem;
+  }
+}
